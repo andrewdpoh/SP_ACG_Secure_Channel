@@ -1,4 +1,17 @@
-1. Run 2 separate terminal
+# SP_ACG_Secure_Channel
+
+Client and Server with Secure channel using python created for the Applied Cryptography (ACG) module in SP.
+
+## Features include:
+- Encrypted session key exchange (RSA encryption)
+- Digital Signatures
+- AES encrypted traffic
+- HMAC integrity check (SHA-1)
+
+![image](https://github.com/andrewdpoh/SP_ACG_Secure_Channel/assets/88697807/a261290b-afde-43a1-973a-4350d94b5703)
+
+## Usage:
+1. Run 2 separate terminals
 2. CD to the server directory (using terminal 1)
    2.1  Server directory should contain server.py and menu_today.txt files
 3. Type "python server.py"
